@@ -5,7 +5,9 @@
 /* header */
 header{
     background-color: #F0FFF0;
-    height: 450px;
+}
+.header-button{
+    margin-bottom: 50px;
 }
 /* navbar */
 .btn-success{
@@ -35,8 +37,6 @@ p{
 /* featers */
 
 .special-card{
-    width: 250px;
-    height: 250px ;
     margin: 15px;
     padding-top: 20px;
     border-radius: 8px;
